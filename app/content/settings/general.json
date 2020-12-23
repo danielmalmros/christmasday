@@ -1,7 +1,7 @@
 {
   "title": "Forside",
   "titleTemplate": "| Juleaften",
-  "welcomeText": "# Glædelig jul Musse!\n\nHvor er det dejligt, at du har fundet frem til din helt egen julegave hjemmeside!",
+  "welcomeText": "# Glædelig jul Musse!\n\nHvor er det dejligt, at du har fundet frem til din helt egen julegave hjemmeside!\n\nHop ind og læs endnu et julekort [her](julekort)",
   "logo": "/images/uploads/santa1.png",
   "icon": "/images/uploads/santa1.png",
   "loadingColor": "#0b3765",
