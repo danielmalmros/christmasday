@@ -1,15 +1,11 @@
 <template>
   <section class="home">
-    <div class="py-24 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
+    <div class="py-16 md:py-36 mx-auto flex flex-wrap flex-col md:flex-row items-center">
       <div class="flex flex-col w-full xl:w-3/5 justify-center lg:items-start overflow-y-hidden">
         <div v-html="$md.render(welcomeText)" class="home__welcome markdown" />
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img
-          alt="Hero"
-          class="rounded shadow-xl"
-          src="https://scontent.faar1-1.fna.fbcdn.net/v/t1.0-9/425103_10150920334923715_507461188_n.jpg?_nc_cat=105&ccb=2&_nc_sid=cdbe9c&_nc_ohc=oIxBr-J_5aoAX-9mfZ8&_nc_ht=scontent.faar1-1.fna&oh=2b940266885eeede08ba83c6384dc33d&oe=600987AE"
-        />
+        <img alt="Hero" class="rounded shadow-xl" src="/images/uploads/musse.jpg" />
       </div>
     </div>
   </section>
